@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hello world, I'm Josafath but you can call me jossa 👋
+
+  [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/josafath.crn)
+  [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/317mbrp7eqof6imjb55osxtderpq)
+
+## 🙋‍♂️ About me
+
+
+I'm from Mexico, currently in the Central Standard Time Zone 🌎. I'm a huge fan of programming and learning itself  🤓💻. When I'm not crushing bugs or building dreams, I can be found playing videogames, dancing, reading, lifting weights 🏋️, and spending time with my beautiful family ❤️.
+
+- 🔭 I’m currently working on ...
+  - Myself and putting my life together to be honest 😅
+  
+- 🌱 I’m currently learning ...
+  - Get back to programming
+
+  
+- 💬 Ask me about ...
+  - Anything but politics and religion
 
 <!--
 **Josafath/Josafath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
